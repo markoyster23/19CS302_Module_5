@@ -21,6 +21,7 @@ RegisterNumber:
 
 ## Output:
 
+10 5\25.00
 
 
 ## Result:
